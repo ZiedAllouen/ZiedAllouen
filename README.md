@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **If you want a skilled JavaScript developer, you come to me 😀 — everyone knows that !**
   
-- ✅ Other fact **Currently i am working on an interne project so i can't share the work but i am keeping the good work. !**
+- ✅ Other fact **Currently i am working on an interne project so i can't share the code but i am keeping the good work. !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
