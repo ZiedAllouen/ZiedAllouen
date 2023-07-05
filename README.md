@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziedallouen" alt="ziedallouen" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript & NestJs**
 
 - 💬 Ask me about **ReactJs | NodeJs**
 
 - 📫 How to reach me **zied_ch@outlook.fr**
 
 - ⚡ Fun fact **If you want a skilled JavaScript developer, you come to me 😀 — everyone knows that !**
+  
+- ✅ Other fact **Currently i am working on an interne project so i can't share the work but i am keeping the good work. !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
