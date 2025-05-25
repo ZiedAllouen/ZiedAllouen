@@ -67,15 +67,23 @@ Unfortunately, it's an internal project so I can’t share the code, but I'm act
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
   <a href="https://www.prisma.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://n8n.io/" target="_blank"><img src="https://raw.githubusercontent.com/n8n-io/n8n/develop/assets/n8n-logo.png" alt="n8n" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="https://vitest.dev/" target="_blank"><img src="https://vitest.dev/logo-shadow.svg" alt="Vitest" width="40" height="40"/></a>
+  <a href="https://testing-library.com/" target="_blank"><img src="https://testing-library.com/img/octopus-64x64.png" alt="Testing Library" width="40" height="40"/></a>
+  <a href="https://eslint.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/></a>
+  <a href="https://prettier.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prettier/prettier-original.svg" alt="Prettier" width="40" height="40"/></a>
 </p>
+
 
 ---
 
